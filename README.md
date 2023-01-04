@@ -16,4 +16,4 @@ During parsing if we find :
 
 We pass a syscall stub or hook so add +1 to the syscall variable. And when the parser is equal to the function addresse we stop parsing and we return the syscall ID.
 
-
+NB : Dédicace à https://github.com/am0nsec/HellsGate pour le HellsGate qui m'a aidé comme base
